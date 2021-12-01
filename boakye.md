@@ -1,7 +1,7 @@
 #Apples
 -big
 -small
--medium
+-mini
 -fresh
 -old
 -rotten
