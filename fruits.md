@@ -1,7 +1,6 @@
 #Favs
 Apples
 Strawberry
-Peach
 Guava
 Oranges
 Banana
@@ -11,5 +10,4 @@ Grapes
 Pawpaw
 Melons
 Mangos
-Dates
 
